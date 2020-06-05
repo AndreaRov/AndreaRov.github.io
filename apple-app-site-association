@@ -4,7 +4,10 @@
         "details": [
            {
                "appID": "AC8QP6MBD6.com.jaydlep.mobilehome",
-               "paths": ["*"]
+               "paths": [
+               "*",
+               "/app-link"
+               ]
            } 
         ]
     }

@@ -2,13 +2,14 @@
     "applinks": {
         "apps": [],
         "details": [
-           {
-               "appID": "AC8QP6MBD6.com.jaydlep.mobilehome",
-               "paths": [
-               "*",
-               "/app-link"
-               ]
-           } 
+            {
+                "appID": "S6L44PEF74.com.vanlanschot.evi.mobiel",
+                "paths": ["*", "/status/*"],
+            },
+            {
+                "appID": "S6L44PEF74.com.vanlanschot.compliant.mobiel",
+                "paths": ["*", "/status/*"],
+            }
         ]
     }
 }
